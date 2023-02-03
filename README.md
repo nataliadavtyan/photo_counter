@@ -1,11 +1,5 @@
 # Photo counter
 
-See the project in action on Netlify:
-
-https://elaborate-frangollo-f168e2.netlify.app/ 
-
-## Description
-
 Photo counter is a web page that users can use to count and save the number of photographs that they made.
 
 ## Features
@@ -13,6 +7,8 @@ Users have two buttons: one that increments the number, and the other that saves
 
 ## Demo
 [Demonstration of the web page](./photo-counter.gif)
+
+Or see the project in action on Netlify: https://elaborate-frangollo-f168e2.netlify.app/ 
 
 ## Technologies
 The project is built using:
