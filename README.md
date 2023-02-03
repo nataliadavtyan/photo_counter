@@ -1,13 +1,30 @@
-# coc7a453c8874de0900f4ca9e
+# Photo counter
 
-## About Scrimba
+See the project in action on Netlify:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+https://elaborate-frangollo-f168e2.netlify.app/ 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Description
 
-Happy Coding!
+Photo counter is a web page that users can use to count and save the number of photographs that they made.
+
+## Features
+Users have two buttons: one that increments the number, and the other that saves it and shows it on the screen along with the previous saves. After saving the number is set back to 0.
+
+## Demo
+[Demonstration of the web page](./photo-counter.gif)
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Sources
+The core of this project was built during the class at the FrontEnd Developer Career Path at Scrimba and later edited by me.
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan) — feel free to contact me!
