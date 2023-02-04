@@ -23,4 +23,5 @@ The core of this project was built during the class at the FrontEnd Developer Ca
 The project is complete.
 
 ## Contact
-Created by [Natalia Davtyan](https://github.com/nataliadavtyan) — feel free to contact me!
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
+Feel free to contact me
