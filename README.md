@@ -6,7 +6,7 @@ Photo counter is a web page that users can use to count and save the number of p
 Users have two buttons: one that increments the number, and the other that saves it and shows it on the screen along with the previous saves. After saving the number is set back to 0.
 
 ## Demo
-See [the demonstration](./photo-counter.gif) 
+![The demonstration](./photo-counter.gif) 
 
 or test it on Netlify: https://elaborate-frangollo-f168e2.netlify.app/ 
 
