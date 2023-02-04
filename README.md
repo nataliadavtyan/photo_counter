@@ -17,7 +17,7 @@ The project is built using:
 * JavaScript
 
 ## Sources
-The core of this project was built during the class on the Frontend Developer Career Path at Scrimba and later edited by me.
+The core of this project was built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend). and later edited by me.
 
 ## Project status
 The project is complete.
