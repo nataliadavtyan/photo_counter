@@ -24,4 +24,4 @@ The project is complete.
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
-Feel free to contact me
+> Feel free to contact me
