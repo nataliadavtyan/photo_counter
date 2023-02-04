@@ -8,7 +8,7 @@ Users have two buttons: one that increments the number, and the other that saves
 ## Demo
 See [the demonstration](./photo-counter.gif) 
 
-or test it yourself on Netlify: https://elaborate-frangollo-f168e2.netlify.app/ 
+or test it on Netlify: https://elaborate-frangollo-f168e2.netlify.app/ 
 
 ## Technologies
 The project is built using:
